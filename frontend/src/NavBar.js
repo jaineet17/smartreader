@@ -55,7 +55,7 @@ const NavBar = () => {
           </li>
           <li className="nav-item">
             <a 
-              href="https://github.com/yourusername/smartreader" 
+              href="https://github.com/jaineet17/smartreader" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="nav-link github"
